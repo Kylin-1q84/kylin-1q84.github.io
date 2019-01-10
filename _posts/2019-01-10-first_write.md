@@ -5,4 +5,4 @@ comments: true #댓글허용여부
 tags: [jekyll, github, markdown] #포스팅의 태그목록
 ---
 Hi!
-![test](./assets/images/post.png)
+![test](./assets/images/post.PNG)
