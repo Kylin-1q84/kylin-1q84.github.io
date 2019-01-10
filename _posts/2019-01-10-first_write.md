@@ -6,3 +6,4 @@ tags: [jekyll, github, markdown] #포스팅의 태그목록
 ---
 Hi!
 ![test](../assets/images/post.PNG)
+![test2](../assets/images/post2.PNG)
